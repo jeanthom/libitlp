@@ -6,7 +6,7 @@ I had this code lying around for months, so I decided to publish it.
 
 ## What to know
 
- * libitlp is not portable : it should works okay on Linux & Mac, but don't expect it to work on big-endian system
+ * libitlp is not portable : it should work okay on Linux & Mac, but don't expect it to work on big-endian system
  * read-only
  * the parsing is far from being accurate and misses a ton of things (like album artwork)
 
